@@ -2,7 +2,7 @@
 
 Bu repo Kodluyoruz eğitimi kapsamında oluşturduğum ilk repo.
 
-![repo](\img\kodluyoruzRepo.PNG)
+![repo](img/kodluyoruzRepo.PNG)
 
 
 ## Installation
