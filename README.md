@@ -1,6 +1,6 @@
 # Kodluyoruz İlk Repo
 
-Bu repo Kodluyoruz eğitimi kapsamında oluşturduğum ilk repo.
+Bu repo Kodluyoruz eğitimi kapsamında oluşturduğum ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 ![repo](img/kodluyoruzRepo.PNG)
 
